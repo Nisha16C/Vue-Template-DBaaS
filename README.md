@@ -1,1 +1,1 @@
-# Vue-Template-DBaaS
+# DURGA-SOC-Project
